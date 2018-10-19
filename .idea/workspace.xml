@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2476ec9-e7fd-4b1f-a8ca-8c5880745408" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-    </list>
+    <list default="true" id="e2476ec9-e7fd-4b1f-a8ca-8c5880745408" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +91,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile">
+        <entry file="file://$PROJECT_DIR$/pages_project/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
@@ -199,11 +197,6 @@
               <item name="pages_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="pages_project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pages_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pages_project" type="462c0819:PsiDirectoryNode" />
-              <item name="pages_project" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -215,6 +208,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages_project" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -269,7 +267,7 @@
   <component name="ToolWindowManager">
     <frame x="722" y="0" width="718" height="900" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30621302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30621302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -283,7 +281,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50443786" side_tool="true" weight="0.3192771" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49556214" visible="true" weight="0.3192771" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49556214" visible="true" weight="0.3192771" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -382,7 +380,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
+    <entry file="file://$PROJECT_DIR$/pages_project/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
